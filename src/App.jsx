@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 // Layouts
-import AuthLayout from './layout/authLayout';
+import AuthLayout from './layout/AuthLayout';
 import AdminLayout from './layout/AdminLayout';
 
 // Pages
